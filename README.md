@@ -1,2 +1,2 @@
 # dotfiles
-My Dotfiles
+My Dotfiles for various programs on a linux/unix system.
