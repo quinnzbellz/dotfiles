@@ -15,3 +15,5 @@ else
     mkdir $HOME/.config
 fi
 cp -r $HOME/.config/awesome ./.config/
+cp -r $HOME/.config/alacritty ./.config/
+cp -r $HOME/.config/fish ./.config/
