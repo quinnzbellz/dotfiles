@@ -3,3 +3,4 @@ if status is-interactive
 end
 starship init fish | source
 neofetch
+set -x PATH $PATH /usr/local/go/bin $GOPATH/bin
